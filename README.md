@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Diegochickennugget
-- 👀 I’m interested in ... Girls
-- 🌱 I’m currently learning ... HTML
-- 💞️ I’m looking to collaborate on ... Idk
-- 📫 How to reach me ... Here
+- Hey Wsup
